@@ -1,7 +1,7 @@
 ---
 title: "Hello world"
 author: "Rivaldo Buarlele"
-date: "21 09 2020"
+date: "13 10 2020"
 output: word_document
 ---
 
